@@ -4,7 +4,7 @@
 
 
 ## Table of Content
-- [Problem Statement](https://github.com/MrutyunjayShukla/PWC-Power-BI-Virtual-work-experience-Users-Churn-Retention/edit/main/README.md#problem-statement)
+- Problem Statement
 - Importing Data
 - Data Preparation
 - Data Modelling
